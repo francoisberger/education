@@ -1,0 +1,2 @@
+This is a sample text. It contains 4 sentences.
+This is sentence number three. The whole text has 23 words (with 3 numbers).

@@ -16,6 +16,7 @@
 
   <modules>
     <module>counting-card-game-generator</module>
+    <module>text-analyzer</module>
   </modules>
 
 </project>
